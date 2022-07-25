@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5jXbHFpgacJ" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Untitled1 — kopia</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Untitled1_—_kopia_ORG">
+    <organization identifier="Untitled1_—_kopia_ORG">
+      <title>Untitled1 — kopia</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5jXbHFpgacJ_RES">
+        <title>Untitled1 — kopia</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5jXbHFpgacJ_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6OCK9AlwKTF.jpg" />
+      <file href="mobile/6EP1ZHpz5hr.png" />
+      <file href="mobile/5bRd2Fjjywy.png" />
+      <file href="mobile/5rHJLhQEcdK.png" />
+      <file href="story_content/6ajGCP9EpJ6.js" />
+      <file href="mobile/6gvYyk72LkO.png" />
+      <file href="mobile/6Mx90mUBkof.png" />
+      <file href="mobile/6cjnoWND3NU.png" />
+      <file href="mobile/6pkXrPRn2ba.png" />
+      <file href="mobile/5mb6lUuqkCJ.png" />
+      <file href="mobile/5kvr0yYuF8K.png" />
+      <file href="mobile/5iBUDByVadv.png" />
+      <file href="story_content/5Y0M7QwRHz7_44100_48_0.mp3" />
+      <file href="mobile/6nOJWUwwZhZ.png" />
+      <file href="mobile/5oMBVGHGJMV.png" />
+      <file href="mobile/5X2d9rcgn6X.png" />
+      <file href="mobile/5vWsrB414K5.png" />
+      <file href="mobile/6C7t2blIAFm.png" />
+      <file href="story_content/5d9aNMcUZwu_44100_48_0.mp3" />
+      <file href="mobile/5i5m5fTddVb.png" />
+      <file href="mobile/6SYEVTCXmF2.png" />
+      <file href="mobile/6dkFpg9DniP.png" />
+      <file href="story_content/6apv8Ea2OGV_44100_48_0.mp3" />
+      <file href="mobile/61XXhwhQysn.png" />
+      <file href="mobile/5qXNzuGk6jv.png" />
+      <file href="mobile/61OPprj4sz7.png" />
+      <file href="story_content/6ncMmeRlKPy_44100_48_0.mp3" />
+      <file href="mobile/5bi7NZlo1qI.jpg" />
+      <file href="mobile/5u0IhZKWykk.png" />
+      <file href="mobile/5sB5AmRZ14m.png" />
+      <file href="story_content/5YGiwX6jbYR_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5nz0hvMPoAa.js" />
+      <file href="html5/data/js/5obZxikhCou.js" />
+      <file href="html5/data/js/5u8xdXjP9sb.js" />
+      <file href="html5/data/js/5ydaK0Cko01.js" />
+      <file href="html5/data/js/64J7VpQPwIm.js" />
+      <file href="html5/data/js/6GZu1Jn3PRZ.js" />
+      <file href="html5/data/js/6N2BNWKjr4e.js" />
+      <file href="html5/data/js/6RjX75VFSb9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
